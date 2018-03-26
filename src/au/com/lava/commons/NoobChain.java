@@ -2,9 +2,10 @@ package au.com.lava.commons;
 
 import java.util.ArrayList;
 
-import com.google.gson.GsonBuilder;
-
 public class NoobChain {
+	
+	//https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+	
 //	public static void main(String[] args) {
 //		
 //		Block genesisBlock = new Block("Hi im the first block", "0");
